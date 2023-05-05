@@ -1,0 +1,24 @@
+{
+  "name": "webcrawler",
+  "version": "1.0.0",
+  "description": "webcrawler built with nodejs to learn more about node",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js",
+    "start-dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeey123/webcrawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgeey123/webcrawler/issues"
+  },
+  "homepage": "https://github.com/georgeey123/webcrawler#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
